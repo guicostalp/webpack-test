@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Aqui eh script 13"),console.log("Aqui eh script 128973"),console.log("this is index.js")})();
